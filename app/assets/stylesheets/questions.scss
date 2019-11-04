@@ -1,0 +1,35 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  background-image: url("https://data.whicdn.com/images/107036221/original.gif");
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Bowlby One SC', cursive;
+
+}
+.btn {
+  background-color: #00818A;
+  border: 1px solid black;
+  border-radius: 3px;
+  color: white;
+  width: 100px;
+  height: 40px;
+  font-size: 14px;
+
+}
+
+.insert {
+  border: 1px solid black;
+  border-radius: 3px;
+  width: 200px;
+  height: 40px;
+}
+
+.reponse {
+  font-family: 'Yeon Sung', cursive;
+  font-size: 20px;
+}
+
